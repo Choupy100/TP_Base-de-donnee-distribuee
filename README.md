@@ -122,4 +122,3 @@ Constat: La table a ete replique
 Conclusion: c'est un systeme de base de donnees distribuees.
 
 
-
